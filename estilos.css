@@ -1,0 +1,13 @@
+.derecha{
+    display: flex;
+    justify-content: space-between;
+}
+
+.second{
+    display: flex;
+    justify-content: space-between;
+}
+
+.features{
+    margin-right: 50px;
+}
